@@ -1,0 +1,17 @@
+{
+	"installationchecker.installation.incorrect": "Stadew Valley Expanded sembra essere installato incorrettamente.",
+	"installationchecker.missing.mods": "Non sono state rilevate le mod necessarie per Stadew Valley Expanded...",
+	"installationchecker.missing.mods.cont": "Scaricare o assicurarsi di aver installato correttamente quanto segue:",
+	"installationchecker.outdated.mods": "Versioni modificate di mod obsolete per l'uso in Stadew Valley Expanded...",
+	"installationchecker.outdated.mods.cont": "Prima di giocare, aggiornare quanto segue:",
+	"installationchecker.orphaned.mods": "Non è stato possibile trovare il/i seguente/i mod richiesto/i. O non sono",
+	"installationchecker.orphaned.mods.cont": "installati, oppure mancano delle dipendenze proprie. Controllare di seguito:",
+	"installationchecker.mod.info": "{{modName}} by {{author}} -",
+	"installationchecker.mod.parents": "Requisiti rilevanti: {{parents}}",
+	"installationchecker.smapi.outdated": "SMAPI non è aggiornato! Si prega di aggiornarlo il prima possibile!",
+	"installationchecker.component.missing": "\n\n\nSembra esserci un problema con l'installazione di Stadew Valley Expanded.\nVisitare il sito https://smapi.io/log e seguire le istruzioni per caricare il registro.\nScorrere fino all'inizio della pagina e leggere il testo rosso per identificare gli errori.\n\n\n",
+	"installationchecker.help.message": "Se hai bisogno di aiuto, visita il server Discord di SVE! https://discord.gg/TBevpV28",
+	"installationchecker.start": "Avvio del programma di controllo dell'installazione...",
+	"installationchecker.credits": "(Controllo dell'installazione fornito da shekurika e moe)",
+	"installationchecker.success": "Controllo dell'installazione completato. Tutto sembra a posto!"
+}
