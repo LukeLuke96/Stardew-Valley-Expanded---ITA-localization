@@ -1,6 +1,6 @@
 # Guida all'Installazione
 
-Benvenuto nel progetto di Localizzazione di Stardew Valley Expanded!
+Benvenuto nel progetto di Localizzazione di Stardew Valley Expanded - Una mod creata da FlashShifter!
 
 ## Requisiti
 
