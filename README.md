@@ -15,7 +15,7 @@ Prima di iniziare, assicurati di avere installato quanto segue sul tuo computer:
 Segui questi passaggi per scaricare i file del progetto sul tuo desktop:
 
 **Download Manuale:**
-   - Vai su https://codeload.github.com/LukeLuke96/Stardew-Valley-Expanded---ITA-localization/zip/refs/heads/main o sulla pagina principale del progetto (https://github.com/LukeLuke96/Stardew-Valley-Expanded---ITA-localization/tree/main) sotto la voce Code in alto a destra
+   - Vai su https://github.com/LukeLuke96/Stardew-Valley-Expanded---ITA-localization/releases e scarica lo 7zip o sulla pagina principale del progetto (https://github.com/LukeLuke96/Stardew-Valley-Expanded---ITA-localization/tree/main) sotto la voce Code in alto a destra
    - Clicca sul pulsante "Download ZIP".
    - Estrai il contenuto dell'archivio ZIP sul Desktop
 
@@ -23,8 +23,8 @@ Segui questi passaggi per scaricare i file del progetto sul tuo desktop:
 
 Ora che hai i file sul desktop, segui questi passaggi per configurare il progetto:
 
-1. Apri il file Zip.
+1. Copia le cartelle estratte sul Desktop.
 
 2. Trova la cartella della mod di Stardew Valley Expanded (Nella cartella di Steam .\steamapps\common\Stardew Valley\Mods\Stardew Valley Expanded).
 
-3. Copia le cartelle nel root e sostituisci i file
+3. Copia le cartelle nel root e sostituisci i file.
