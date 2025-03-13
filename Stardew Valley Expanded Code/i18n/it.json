@@ -14,4 +14,13 @@
 	"installationchecker.start": "Avvio del programma di controllo dell'installazione...",
 	"installationchecker.credits": "(Controllo dell'installazione fornito da shekurika e moe)",
 	"installationchecker.success": "Controllo dell'installazione completato. Tutto sembra a posto!"
+	"shield-with-level": "Livello {{level}} Scudo",
+	"greatsword-with-level": "Livello {{level}} Spadone",
+	"wand-with-level": "Livello {{level}} Bacchetta",
+	"sun-totem-message": "Le nuvole si disperdono in lontananza...",
+	"wind-totem-message": "Le nuvole si disperdono in lontananza...",
+	"cant-use-now": "Questo oggetto non può essere usato ora.",
+	"furniture-catalogue-2-description": "La seconda edizione del Catalogo del Arredamento.",
+	"invasion-warning-on": "L'invasione dei mostri comincerà domani sera...",
+	"invasion-warning-off": "L'invasione dei mostri finirà domani sera..."
 }
