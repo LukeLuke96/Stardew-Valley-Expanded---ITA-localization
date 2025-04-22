@@ -13,7 +13,7 @@
 	"installationchecker.help.message": "Se hai bisogno di aiuto, visita il server Discord di SVE! https://discord.gg/TBevpV28",
 	"installationchecker.start": "Avvio del programma di controllo dell'installazione...",
 	"installationchecker.credits": "(Controllo dell'installazione fornito da shekurika e moe)",
-	"installationchecker.success": "Controllo dell'installazione completato. Tutto sembra a posto!"
+	"installationchecker.success": "Controllo dell'installazione completato. Tutto sembra a posto!",
 	"shield-with-level": "Livello {{level}} Scudo",
 	"greatsword-with-level": "Livello {{level}} Spadone",
 	"wand-with-level": "Livello {{level}} Bacchetta",
